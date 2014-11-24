@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperatura</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="miColor">#CCFF66</color>
+    <string name="celcius">a Celcius</string>
+    <string name="fahrenheit">a Fahrenheit</string>
+    <string name="calc">Calcular</string>
+</resources>
