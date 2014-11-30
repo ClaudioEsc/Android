@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gestor de contraseñas</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_add">Agregar</string>
+    <string name="label_username">Nombre de usuario</string>
+    <string name="label_password">Contraseña</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_close">Cerrar</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="msg_update_ok">Contraseña modificada</string>
+    <string name="msg_insert_ok">Nueva contraseña agregada</string>
+    <string name="msg_delete_ok">Contraseña eliminada</string>
+    <string name="msg_no_passwords">No hay contraseñas</string>
+    <string name="label_description">Descripción</string>
+    <string name="action_edit">Modificar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="menu_password_title">Opciones</string>
+    <string name="action_add">Nuevo</string>
+    <string name="action_save">Guardar</string>
+    <string name="error_null_username">Es necesario ingresar el nombre de usuario</string>
+    <string name="error_null_description">Es necesario ingresar la descripción</string>
+    <string name="error_null_password">En necesario ingresar la contraseña</string>
+    <string name="action_export">Exportar</string>
+
+</resources>
